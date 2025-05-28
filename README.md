@@ -52,11 +52,11 @@ This project provides firmware for an Arduino Nano-based IoT weather sensing dev
 
 ```
 weather-iot-sensor/
-├── include/            # Header files
-├── lib/                # External libraries
+├── include/            # Header files and Secrets files
+├── lib/                # External libraries (not used)
 ├── src/                # Main source code
 │   └── main.cpp
-├── test/               # Tests (optional)
+├── test/               # Tests (optional, not used)
 ├── platformio.ini      # PlatformIO project config
 └── .vscode/            # VSCode config (optional)
 ```
